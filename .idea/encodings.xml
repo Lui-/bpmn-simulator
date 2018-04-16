@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/animation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/animation-swing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bpmn-swing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/import" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/import-bonita" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-animation" charset="UTF-8" />
+  </component>
+</project>

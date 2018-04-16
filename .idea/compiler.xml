@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="animation" />
+        <module name="animation-swing" />
+        <module name="application" />
+        <module name="bpmn" />
+        <module name="bpmn-swing" />
+        <module name="import" />
+        <module name="import-bonita" />
+        <module name="test-animation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="animation" target="1.7" />
+      <module name="animation-swing" target="1.7" />
+      <module name="application" target="1.7" />
+      <module name="bpmn" target="1.7" />
+      <module name="bpmn-swing" target="1.7" />
+      <module name="import" target="1.7" />
+      <module name="import-bonita" target="1.7" />
+      <module name="parent" target="1.7" />
+      <module name="test-animation" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

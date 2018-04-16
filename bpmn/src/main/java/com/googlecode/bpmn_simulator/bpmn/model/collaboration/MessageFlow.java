@@ -87,7 +87,16 @@ public class MessageFlow
 //			token.getInstance().getParentContainer().addNewChildInstance(null).createNewToken(fNode, null);
 			token.getInstance().createNewInstance(fNode);
 			if (fNode instanceof BoundaryEvent)
-				((BoundaryEvent)fNode).setCatched(true);
+				((BoundaryEvent) fNode).setCatched(true);
+
+			// Warten das Message Flow angezeigt wird ?
+			if (!(fNode instanceof StartEvent)){
+				try {
+					Thread.sleep(1000);
+				} catch (InterruptedException e) {
+					//e.printStackTrace();
+				}
+			}
 		}
 	}
 

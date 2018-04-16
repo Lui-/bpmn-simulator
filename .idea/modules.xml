@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation-swing/animation-swing.iml" filepath="$PROJECT_DIR$/animation-swing/animation-swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpmn/bpmn.iml" filepath="$PROJECT_DIR$/bpmn/bpmn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpmn-swing/bpmn-swing.iml" filepath="$PROJECT_DIR$/bpmn-swing/bpmn-swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import/import.iml" filepath="$PROJECT_DIR$/import/import.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import-bonita/import-bonita.iml" filepath="$PROJECT_DIR$/import-bonita/import-bonita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation-swing/src/main/main.iml" filepath="$PROJECT_DIR$/animation-swing/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import/src/main/main1.iml" filepath="$PROJECT_DIR$/import/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/src/main/main2.iml" filepath="$PROJECT_DIR$/animation/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/src/main/main3.iml" filepath="$PROJECT_DIR$/application/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import-bonita/src/main/main4.iml" filepath="$PROJECT_DIR$/import-bonita/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpmn/src/main/main5.iml" filepath="$PROJECT_DIR$/bpmn/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpmn-swing/src/main/main6.iml" filepath="$PROJECT_DIR$/bpmn-swing/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-animation/src/main/main7.iml" filepath="$PROJECT_DIR$/test-animation/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bpmn/src/test/test.iml" filepath="$PROJECT_DIR$/bpmn/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-animation/test-animation.iml" filepath="$PROJECT_DIR$/test-animation/test-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-animation/src/test/test1.iml" filepath="$PROJECT_DIR$/test-animation/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
